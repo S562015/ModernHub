@@ -5,7 +5,7 @@ This project motive is to create a website for International students living in 
 |---|---|
 |Nagarjuna Reddy Kunkala | https://github.com/S562015 |
 |Swathi Beepeta | https://github.com/Beepetaswathi |
-|Anusha Bichal | https://github.com/S562015 |
+|Anusha Bichal | https://github.com/Anusha-Bichal |
 |Amani Chennu | https://github.com/amanichennu201 |
 |Sai Vamshi Krishna Gajji | https://github.com/saivamshikrishnagajji |
 |Pradeep Rao Veeramaneni | https://github.com/pradeepveeramaneni |
